@@ -31,14 +31,17 @@
 ### Списък на съставни части
 ![image](https://github.com/peterdobrev/tic-tac-toe-arduino/assets/78638859/22cf7249-46dc-49e1-a1ad-fad792dbf853)
 
-Name,Quantity,Component
-"U1",1," Arduino Uno R3"
-"S1, S2, S3, S4, S5, S6, S7, S8, S9",9," Pushbutton"
-"R1, R6, R9",3,"620 Ω Resistor"
-"R2, R5, R8",3,"330 Ω Resistor"
-"R3, R4, R7",3,"2 kΩ Resistor"
-"DShows Turns, D3, D2, D1, D4, D5, D6, D9, D8, D7",10," LED RGB"
-"R10, R12, R13, R14, R15, R16, R17, R18, R19, R20",10,"220 Ω Resistor"
+## Списък на съставни части
+
+| Name                                      | Quantity | Component       |
+| ----------------------------------------- | -------- | --------------- |
+| U1                                        | 1        | Arduino Uno R3  |
+| S1, S2, S3, S4, S5, S6, S7, S8, S9        | 9        | Pushbutton      |
+| R1, R6, R9                                | 3        | 620 Ω Resistor  |
+| R2, R5, R8                                | 3        | 330 Ω Resistor  |
+| R3, R4, R7                                | 3        | 2 kΩ Resistor   |
+| DShows Turns, D3, D2, D1, D4, D5, D6, D9, D8, D7 | 10   | LED RGB         |
+| R10, R12, R13, R14, R15, R16, R17, R18, R19, R20 | 10  | 220 Ω Resistor  |
 
 ---
 
