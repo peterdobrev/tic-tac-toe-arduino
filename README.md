@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Project
 
 ## ЛИНК ЗА ПРОЕКТА
-[Click here to view the project on Tinkercad](https://www.tinkercad.com/things/fitrjgXMuKn-tic-tac-toe-petur-dobrev/)
+[Project on Tinkercad](https://www.tinkercad.com/things/fitrjgXMuKn-tic-tac-toe-petur-dobrev/)
 
 ## СЪДЪРЖАНИЕ
 - [Описание на проекта](#описание)
@@ -19,25 +19,31 @@
 ---
 
 ### Блокова схема
-(Insert block diagram image here)
+- *Missing file*
 
 ---
 
 ### Електрическа схема
-(Insert electrical diagram image here)
+![image](https://github.com/peterdobrev/tic-tac-toe-arduino/assets/78638859/a5d6d8f3-0ef6-451b-b37c-8f4490c1257b)
+![image](https://github.com/peterdobrev/tic-tac-toe-arduino/assets/78638859/781e4909-f082-4c14-8265-5b6c6e7d5610)
 
-[Линк за изтегляне на електрическата схема](#)
-
----
 
 ### Списък на съставни части
-(Insert list of components here)
+![image](https://github.com/peterdobrev/tic-tac-toe-arduino/assets/78638859/22cf7249-46dc-49e1-a1ad-fad792dbf853)
+
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"S1, S2, S3, S4, S5, S6, S7, S8, S9",9," Pushbutton"
+"R1, R6, R9",3,"620 Ω Resistor"
+"R2, R5, R8",3,"330 Ω Resistor"
+"R3, R4, R7",3,"2 kΩ Resistor"
+"DShows Turns, D3, D2, D1, D4, D5, D6, D9, D8, D7",10," LED RGB"
+"R10, R12, R13, R14, R15, R16, R17, R18, R19, R20",10,"220 Ω Resistor"
 
 ---
 
 ### Сорс код – описание на функционалността
 #### МОРСКИ ШАХ - АРДУИНО КОД
-(Insert code snippets or link to the source code file)
 
 **АЛГОРИТЪМ:**
 Кодът e реализиран чрез следните методи:
