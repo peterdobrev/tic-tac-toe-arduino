@@ -31,8 +31,6 @@
 ### Списък на съставни части
 ![image](https://github.com/peterdobrev/tic-tac-toe-arduino/assets/78638859/22cf7249-46dc-49e1-a1ad-fad792dbf853)
 
-## Списък на съставни части
-
 | Name                                      | Quantity | Component       |
 | ----------------------------------------- | -------- | --------------- |
 | U1                                        | 1        | Arduino Uno R3  |
