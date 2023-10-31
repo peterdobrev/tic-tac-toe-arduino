@@ -1,4 +1,7 @@
 # Tic-Tac-Toe Project
+![image](https://github.com/peterdobrev/tic-tac-toe-arduino/assets/78638859/1f962fa4-3475-447c-baf0-b2217975a2ce)
+
+
 
 ## ЛИНК ЗА ПРОЕКТА
 [Project on Tinkercad](https://www.tinkercad.com/things/fitrjgXMuKn-tic-tac-toe-petur-dobrev/)
